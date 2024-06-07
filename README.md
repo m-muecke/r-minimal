@@ -159,7 +159,7 @@ Hints on installing some popular R packages:
 | data.table | See [examples/data.table](examples/data.table) for OpenMP support | 40.3 MB |
 | dplyr | `installr -d dplyr` | 47.8 MB |
 | ggplot2 | `installr -d -t gfortran ggplot2` | 82.1 MB |
-| h2o | See [examples/h2o](examples/h20). | 408.0 MB |
+| h2o | See [examples/h2o](examples/h2o). | 408.0 MB |
 | knitr | `installr -d knitr` | 79.2 MB |
 | shiny | See [examples/shiny](examples/shiny). | 84.1 MB |
 | sf | See [examples/sf](examples/sf). | 184.5 MB |
